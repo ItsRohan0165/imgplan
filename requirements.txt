@@ -1,3 +1,4 @@
-discord
+
 asyncio
 google-api-python-client
+pprint
