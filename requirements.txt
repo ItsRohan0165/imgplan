@@ -1,4 +1,4 @@
-discord.py==1.2.3 
+discord.py==1.2.2 
 asyncio
 google-api-python-client
 pprint
