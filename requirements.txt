@@ -2,4 +2,4 @@ discord.py==1.2.2
 asyncio
 google-api-python-client
 pprint
-random
+pipenv
