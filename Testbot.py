@@ -5,7 +5,7 @@ import random
 from googleapiclient.discovery import build
 import pprint
 import asyncio
-
+import os
 
 description = '''An example bot to showcase the discord.ext.commands extension
 module.
