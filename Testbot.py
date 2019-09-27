@@ -15,7 +15,6 @@ bot = commands.Bot(command_prefix='/',description=description)
 
 @bot.event
 async def on_ready():
-   await client.send_message('614784025973751808', 'restarted...')
     print('Logged in as')
     print(bot.user.name)
     print(bot.user.id)
