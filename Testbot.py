@@ -3,12 +3,6 @@ from discord.ext import commands
 import random
 
 from googleapiclient.discovery import build
-import discord.channel
-from discord.channel import Channel
-import discord.message
-from discord.message import Message
-import discord.server
-from discord.server import Server
 import pprint
 import asyncio
 
